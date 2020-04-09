@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/isittluk/weather_react.git/static/css/main.41167b5a.chunk.css",
+    "main.js": "/isittluk/weather_react.git/static/js/main.884c01c0.chunk.js",
+    "main.js.map": "/isittluk/weather_react.git/static/js/main.884c01c0.chunk.js.map",
+    "runtime-main.js": "/isittluk/weather_react.git/static/js/runtime-main.1e81ed16.js",
+    "runtime-main.js.map": "/isittluk/weather_react.git/static/js/runtime-main.1e81ed16.js.map",
+    "static/js/2.087687ac.chunk.js": "/isittluk/weather_react.git/static/js/2.087687ac.chunk.js",
+    "static/js/2.087687ac.chunk.js.map": "/isittluk/weather_react.git/static/js/2.087687ac.chunk.js.map",
+    "index.html": "/isittluk/weather_react.git/index.html",
+    "precache-manifest.0b1981b3b6f49a28671a33d10f55fc77.js": "/isittluk/weather_react.git/precache-manifest.0b1981b3b6f49a28671a33d10f55fc77.js",
+    "service-worker.js": "/isittluk/weather_react.git/service-worker.js",
+    "static/css/main.41167b5a.chunk.css.map": "/isittluk/weather_react.git/static/css/main.41167b5a.chunk.css.map",
+    "static/js/2.087687ac.chunk.js.LICENSE.txt": "/isittluk/weather_react.git/static/js/2.087687ac.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1e81ed16.js",
+    "static/js/2.087687ac.chunk.js",
+    "static/css/main.41167b5a.chunk.css",
+    "static/js/main.884c01c0.chunk.js"
+  ]
+}
